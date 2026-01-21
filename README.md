@@ -121,10 +121,8 @@ php artisan test
 3. Add **Tasks** to your projects.
 4. Use the **My Tasks** view to focus on your assigned work.
 
-## 📜 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## 👨‍💻 Author
 
-- [Waseem Akram](https://github.com/Wcoder547)
+- Larbi Mohammed Achraf
